@@ -61,21 +61,8 @@
 
 ## **❓ Frequently Asked Questions (FAQ)**  
 <details>  
-<summary><strong>Q: Can I apply for NICOP without my parents’ visas?</strong></summary>  
-**A:** No. Parents’ passports + current Chinese visas are mandatory.  
-</details>  
-
-<details>  
 <summary><strong>Q: What if DHL doesn’t call me?</strong></summary>  
 **A:** Visit the nearest DHL office with your tracking details (use Baidu Maps to locate).  
-</details>  
+</details>
 
 ---
-
-### **📌 Notes**  
-- **Format:** Uses GitHub Flavored Markdown (collapsible sections, tables, lists).  
-- **Update?** Comment or open a PR to suggest edits!  
-
---- 
-
-**🔗 Preview this file on GitHub** for interactive collapsible sections! Let me know if you’d like to add passport details or adjust formatting. 😊
