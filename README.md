@@ -2,7 +2,7 @@
 
 
 <details>
-<summary><b> 🔴 Important Points to Note </b></summary>
+<summary style="color: red !important"><b> 🔴 Important Points to Note </b></summary>
 - <div style="color:red">You MUST register your newborn child at the nearest Pakistani Embassy/Consulate in China</div> before applying for their passport.
 - **<span style="color:red">Child Registration:</span>**  
   - Register your child at the **nearest immigration office** in China and obtain an official letter.  
