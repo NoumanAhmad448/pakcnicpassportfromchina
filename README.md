@@ -3,14 +3,6 @@
 
 ---
 
-## **📂 Table of Contents**  
-1. [**CNIC (NICOP) Application**](#-cnic-nicop-application)  
-2. [**Passport Application**](#-passport-application)  
-3. [**Tips & Tricks for CNIC**](#-tips--tricks-for-cnic)  
-4. [**Tips & Tricks for Passport**](#-tips--tricks-for-passport)  
-
----
-
 ## **🆔 CNIC (NICOP) Application**  
 ### **📌 Required Documents**  
 - Birth certificate from a Chinese hospital (**no translation needed**).  
@@ -37,32 +29,38 @@
 ---
 
 ## **🛂 Passport Application**  
-*(To be added; specify if you’d like this section expanded.)*  
+## **📝 Required Documents**  
+- **FRC (Family Registration Certificate)**  
+  - Obtain via **Pak-ID Mobile App**:  
+    1. Select *FRC* > *Apply for Yourself*.  
+    2. Pay **PKR 1000**, then download the PDF (no attestation needed).  
+  - **Supporting Documents:**  
+    - Parents’ passports + CNIC + current Chinese visas.  
+
+- **Additional Forms (Download from DGIP Website):**  
+  1. **Parent-Signed Form:** Add child’s photo + signatures of both parents.  
+  2. **Fingerprint Form:**  
+     - 🖨️ **Ink Pad Issue?** Search for *黑色印台* (black stamp pad) on:  
+       - Taobao / Meituan / PUPU.  
 
 ---
 
-## **💡 Tips & Tricks for CNIC**  
-### **🚀 Pro Tips**  
-- **Helpline:** Use NADRA’s helpline aggressively—don’t wait for emails.  
-- **DHL Issues:**  
-  - Preemptively locate your nearest DHL office (Baidu Maps/WeChat).  
-  - Add DHL staff on WeChat for faster coordination.  
+## **🔍 Step-by-Step Procedure**  
+### **1️⃣ Apply Online**  
+- **Website:** [DGIP e-Passport Portal](https://onlinemrp.dgip.gov.pk/e-passport/authenticate) (*Chrome only!*).  
+- **Login:** Use NADRA credentials + **Google Authentator (2FA)**.  
 
-### **⚠️ Common Pitfalls**  
-- English addresses often confuse DHL—provide Chinese contact details.  
-- Delays happen; follow up daily after the 7-day window.  
+### **2️⃣ Pay Fees**  
+- Payment gateway integrated into the portal.  
 
----
+### **3️⃣ Wait for Email Confirmation**  
+- **Approval Time:** ~2 weeks.  
+- **No Email?** Check the portal’s *Download/Documents* section for rejection reasons.  
 
-## **🔍 Tips & Tricks for Passport**  
-*(To be added; specify if you’d like this section expanded.)*  
-
----
-
-## **❓ Frequently Asked Questions (FAQ)**  
-<details>  
-<summary><strong>Q: What if DHL doesn’t call me?</strong></summary>  
-**A:** Visit the nearest DHL office with your tracking details (use Baidu Maps to locate).  
-</details>
+### **4️⃣ Coordinate with UPS**  
+- **Approval Email Received?** Contact UPS for delivery:  
+  - 📞 **Phone:** `+9221-111-669-877`  
+  - 🌐 **Website:** [UPS Pakistan Support](https://www.ups.com/pk/en/support/contact-us).  
 
 ---
+
