@@ -1,4 +1,26 @@
 # **🇨🇳 Pakistan CNIC & Passport Application Guide (China)**  
+
+
+<details>
+<summary><b> 🔴 Important Points to Note </b></summary>
+- <div style="color:red">You MUST register your newborn child at the nearest Pakistani Embassy/Consulate in China</div> before applying for their passport.
+- **<span style="color:red">Child Registration:</span>**  
+  - Register your child at the **nearest immigration office** in China and obtain an official letter.  
+  - *This is mandatory for passport applications involving minors.*  
+
+- **<span style="color:red">Google Authenticator:</span>**  
+  - Use **Google Authenticator** for 2FA with both:  
+    - NADRA (Pak-ID App)  
+    - DGIP Passport Portal ([link](https://onlinemrp.dgip.gov.pk/e-passport/authenticate)).  
+  - *Pro Tip:* Use the **same email** for both accounts if already registered with NADRA.  
+
+- **<span style="color:red">DGIP Helpline Issues:</span>**  
+  - DGIP’s helpline may **not be responsive**. Alternatives:  
+    - Call Pakistan from China using your **Chinese phone number** (check int’l rates).  
+    - Try **Easy Call on WeChat** (experimental; no user feedback yet).  
+
+</details>
+ 
 *A step-by-step guide for Pakistani citizens in China to apply for NICOP and passports.*  
 
 ---
@@ -43,7 +65,7 @@
      - 🖨️ **Ink Pad Issue?** Search for *黑色印台* (black stamp pad) on:  
        - Taobao / Meituan / PUPU.  
 
----
+
 
 ## **🔍 Step-by-Step Procedure**  
 ### **1️⃣ Apply Online**  
