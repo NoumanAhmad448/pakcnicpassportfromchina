@@ -1,12 +1,12 @@
-# **🇨🇳 Pakistan CNIC & Passport including visa Guide (China)**  
+# *Guide for New Born Pakistani Kid in China CNIC & Passport including visa**  
 
 
 <details>
-<summary style="color: red !important"><b> 🔴 Important Points to Note </b></summary>
-- <div style="color:red">You MUST register your newborn child at the nearest Pakistani Embassy/Consulate in China</div> before applying for their passport.
+<summary style="color: red !important"><span>🔴 Important Points to Note </span></summary>
+- <div style="color:red">🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴 You MUST register your newborn child at the nearest Pakistani Embassy/Consulate in China</div> before applying for their passport.
 - **<span style="color:red">Child Registration:</span>**  
   - Register your child at the **nearest immigration office** in China and obtain an official letter.  
-  - *This is mandatory for passport applications involving minors.*  
+  - *This is mandatory for passport applications involving minors.* 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴  
 
 - **<span style="color:red">Google Authenticator:</span>**  
   - Use **Google Authenticator** for 2FA with both:  
