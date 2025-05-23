@@ -12,7 +12,7 @@ For shenzhen location
 ```
 
 <details>
-<summary style="color: red !important"><span>🔴 Important Points to Note </span></summary>
+<summary style="color: red !important"><span>🔴 Click here for Important Points to Note </span></summary>
 - **<span style="color:red">Google Authenticator:</span>**  
   - Use **Google Authenticator** for 2FA with both:  
     - NADRA (Pak-ID App)  
@@ -155,3 +155,5 @@ For shenzhen location
 </details>
 
 
+## Acknowlegement
+```Always be grateful to your wife for such wonderful experience. The whole all expereience is dedicated to my sweet wife```
