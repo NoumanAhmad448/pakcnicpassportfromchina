@@ -134,8 +134,8 @@
 **Shenzhen Options:**
 | Applicant Type | Portal Link |
 |---------------|------------|
-| Working | [https://wgfw.ga.sz.gov.cn](https://wgfw.ga.sz.gov.cn) |
-| Studying | [https://msjw.ga.sz.gov.cn](https://msjw.ga.sz.gov.cn) |
+| Working | [https://wgfw.ga.sz.gov.cn](https://wgfw.ga.sz.gov.cn/user/wgrfwpt) |
+| Studying | [https://msjw.ga.sz.gov.cn](https://msjw.ga.sz.gov.cn/szga_yhtx_cas/login?loginType=1&locale=zh_CN&service=https%3A%2F%2Fmsjw.ga.sz.gov.cn%2Fcrj%2Fcrjmsjw%2Fwsyy%2Fajax%2Fzswgr) |
 
 ### Step 3: Submit Application
 - Visit in person with all documents
