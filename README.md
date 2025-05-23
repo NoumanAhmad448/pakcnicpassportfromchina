@@ -86,3 +86,67 @@
 
 ---
 
+## 🇨🇳 **Chinese Visa Application Process for Newborns (Shenzhen Example)**
+
+## 📋 **Required Documents**
+<details>
+<summary><b>📌 Click to view required documents</b></summary>
+
+1. **Police Registration (登记)**
+   - Required for: Both parents + child
+   - Where: Nearest local police station
+
+2. **Child's Visa Photo**
+   - Specification: Blue background
+   - Options:
+     - Take with smartphone and edit
+     - Sample Link
+       ```
+       【淘宝】331+人已复购 https://e.tb.cn/h.6uF6Ygpqdb21tec?tk=6xLIVkyYs8z CZ193 「证件照片签证照打印冲印冲洗换底色一寸高清驾驶证各国签证照包邮」
+        点击链接直接打开 或者 淘宝搜索直接打开
+        ```
+
+3. **Visa Photo Receipt**
+   - [Shenzhen cheapest option] (Confirm for other cities)
+      ```
+     【淘宝】182+人已复购 https://e.tb.cn/h.6uFhs9uj1f9t6B0?tk=Bz3NVkyctOh CZ028 「广东省深圳广州佛山数码回执照相馆证件照相片采集图像号社保医保」
+      点击链接直接打开 或者 淘宝搜索直接打开
+      ```
+
+4. **Passports**
+   - Both parents' original passports
+   - Baby's passport (if already issued)
+
+5. **Additional Documents**
+   - Child registration letter (from initial registration)
+   - Parents' residence permits
+</details>
+
+## 🚀 **Application Process**
+<details>
+<summary><b>📝 Click to view step-by-step process</b></summary>
+
+### Step 1: Prepare Documents
+- Complete police registration first
+- Get proper visa photos
+
+### Step 2: Book Appointment
+**Shenzhen Options:**
+| Applicant Type | Portal Link |
+|---------------|------------|
+| Working | [https://wgfw.ga.sz.gov.cn](https://wgfw.ga.sz.gov.cn) |
+| Studying | [https://msjw.ga.sz.gov.cn](https://msjw.ga.sz.gov.cn) |
+
+### Step 3: Submit Application
+- Visit in person with all documents
+- Address:  
+  **深圳市罗湖区公安局出入境管理局**  
+  (Luohu District Public Security Bureau Exit-Entry Administration)
+
+### Step 4: Processing
+- Initial registration letter valid for 4 months
+- Typical processing: 7-15 working days
+- Do not forgot to register in police registeration after you receive baby visa
+</details>
+
+
