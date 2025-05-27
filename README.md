@@ -9,6 +9,18 @@ For shenzhen location
 ```
 深圳市罗湖区公安局出入境管理局
 ```
+Hotline Numbers
+UPS
+```
++9221111669877
+```
+Nadra
+```
++9251111786100
+```
+
+
+
 
 <details>
 <summary style="color: red !important"><span>🔴 Click here for Important Points to Note </span></summary>
