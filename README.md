@@ -39,7 +39,9 @@ Nadra
  
 *A step-by-step guide for Pakistani citizens in China to apply for NICOP and passports.*  
 
+<img src="https://id.nadra.gov.pk/e-id/images/login-bg-2.jpg"/>
 ---
+
 
 ## **🆔 CNIC (NICOP) Application**  
 ### **📌 Required Documents**  
@@ -64,6 +66,7 @@ Nadra
 
 **⏳ Processing Time:** ~1 month.  
 
+<img src="https://onlinemrp.dgip.gov.pk/e-passport/images/landing_page.jpg"/>
 ---
 
 ## **🛂 Passport Application**  
