@@ -1,10 +1,9 @@
 # *Guide for New Born Pakistani Kid in China CNIC & Passport including visa**  
 
  ```
- You MUST register your newborn child at the nearest Pakistani Embassy/Consulate in China</div> before applying for their passport.
-Child Registration
-  - Register your child at the **nearest immigration office** in China and obtain an official letter.  
-  - *This is mandatory for passport applications involving minors.*
+ You MUST register your newborn child at the nearest immigration office in China and receive
+ a letter before applying for his/her child passport.
+ This is mandatory for passport applications involving minors.
   ```
 For shenzhen location
 ```
