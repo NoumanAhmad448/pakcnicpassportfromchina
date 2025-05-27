@@ -103,6 +103,7 @@ Nadra
   - 📞 **Phone:** `+9221-111-669-877`  
   - 🌐 **Website:** [UPS Pakistan Support](https://www.ups.com/pk/en/support/contact-us).  
 
+<img src="https://www.nia.gov.cn/n897453/c1533112/pic_1533112.jpg" alt="https://msjw.ga.sz.gov.cn/headfooter/logo_20171211.png">
 ---
 
 ## 🇨🇳 **Chinese Visa Application Process for Newborns (Shenzhen Example)**
